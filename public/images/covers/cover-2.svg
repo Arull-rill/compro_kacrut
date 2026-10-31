@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#1d1a12"/><stop offset="1" stop-color="#0A0A0A"/></radialGradient></defs>
+<rect width="600" height="600" fill="url(#g)"/>
+<line x1="-280" y1="0" x2="-580" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-252" y1="0" x2="-552" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-224" y1="0" x2="-524" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-196" y1="0" x2="-496" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-168" y1="0" x2="-468" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-140" y1="0" x2="-440" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-112" y1="0" x2="-412" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-84" y1="0" x2="-384" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-56" y1="0" x2="-356" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="-28" y1="0" x2="-328" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="0" y1="0" x2="-300" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="28" y1="0" x2="-272" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="56" y1="0" x2="-244" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="84" y1="0" x2="-216" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="112" y1="0" x2="-188" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="140" y1="0" x2="-160" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="168" y1="0" x2="-132" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="196" y1="0" x2="-104" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="224" y1="0" x2="-76" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="252" y1="0" x2="-48" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="280" y1="0" x2="-20" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="308" y1="0" x2="8" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="336" y1="0" x2="36" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="364" y1="0" x2="64" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="392" y1="0" x2="92" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="420" y1="0" x2="120" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="448" y1="0" x2="148" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="476" y1="0" x2="176" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="504" y1="0" x2="204" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="532" y1="0" x2="232" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="560" y1="0" x2="260" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="588" y1="0" x2="288" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="616" y1="0" x2="316" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="644" y1="0" x2="344" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="672" y1="0" x2="372" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<line x1="700" y1="0" x2="400" y2="600" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="1.2"/>
+<circle cx="300" cy="300" r="90" fill="#0A0A0A" stroke="#C8A24A" stroke-width="2"/>
+<text x="34" y="568" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#F4F1E8" fill-opacity=".75">The Kacrut</text>
+<text x="566" y="568" text-anchor="end" font-family="monospace" font-size="16" fill="#C8A24A" letter-spacing="3">02</text>
+</svg>

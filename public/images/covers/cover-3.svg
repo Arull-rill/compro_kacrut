@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#1d1a12"/><stop offset="1" stop-color="#0A0A0A"/></radialGradient></defs>
+<rect width="600" height="600" fill="url(#g)"/>
+<path d="M60 420 A240 240 0 0 1 540 420" fill="none" stroke="#C8A24A" stroke-opacity="0.95" stroke-width="2"/>
+<path d="M70 420 A210 210 0 0 1 530 420" fill="none" stroke="#C8A24A" stroke-opacity="0.85" stroke-width="2"/>
+<path d="M80 420 A180 180 0 0 1 520 420" fill="none" stroke="#C8A24A" stroke-opacity="0.75" stroke-width="2"/>
+<path d="M90 420 A150 150 0 0 1 510 420" fill="none" stroke="#C8A24A" stroke-opacity="0.65" stroke-width="2"/>
+<path d="M100 420 A120 120 0 0 1 500 420" fill="none" stroke="#C8A24A" stroke-opacity="0.55" stroke-width="2"/>
+<path d="M110 420 A90 90 0 0 1 490 420" fill="none" stroke="#C8A24A" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M120 420 A60 60 0 0 1 480 420" fill="none" stroke="#C8A24A" stroke-opacity="0.35" stroke-width="2"/>
+<path d="M130 420 A30 30 0 0 1 470 420" fill="none" stroke="#C8A24A" stroke-opacity="0.25" stroke-width="2"/>
+<rect x="60" y="430" width="480" height="2" fill="#F4F1E8" fill-opacity=".6"/>
+<text x="34" y="568" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#F4F1E8" fill-opacity=".75">The Kacrut</text>
+<text x="566" y="568" text-anchor="end" font-family="monospace" font-size="16" fill="#C8A24A" letter-spacing="3">03</text>
+</svg>

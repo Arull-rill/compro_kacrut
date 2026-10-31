@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="75%"><stop offset="0" stop-color="#1d1a12"/><stop offset="1" stop-color="#0A0A0A"/></radialGradient></defs>
+<rect width="600" height="600" fill="url(#g)"/>
+<circle cx="300" cy="300" r="40" fill="none" stroke="#C8A24A" stroke-opacity="0.90" stroke-width="1.5"/>
+<circle cx="306" cy="296" r="70" fill="none" stroke="#C8A24A" stroke-opacity="0.81" stroke-width="1.5"/>
+<circle cx="312" cy="292" r="100" fill="none" stroke="#C8A24A" stroke-opacity="0.72" stroke-width="1.5"/>
+<circle cx="318" cy="288" r="130" fill="none" stroke="#C8A24A" stroke-opacity="0.63" stroke-width="1.5"/>
+<circle cx="324" cy="284" r="160" fill="none" stroke="#C8A24A" stroke-opacity="0.54" stroke-width="1.5"/>
+<circle cx="330" cy="280" r="190" fill="none" stroke="#C8A24A" stroke-opacity="0.45" stroke-width="1.5"/>
+<circle cx="336" cy="276" r="220" fill="none" stroke="#C8A24A" stroke-opacity="0.36" stroke-width="1.5"/>
+<circle cx="342" cy="272" r="250" fill="none" stroke="#C8A24A" stroke-opacity="0.27" stroke-width="1.5"/>
+<circle cx="348" cy="268" r="280" fill="none" stroke="#C8A24A" stroke-opacity="0.18" stroke-width="1.5"/>
+<text x="34" y="568" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#F4F1E8" fill-opacity=".75">The Kacrut</text>
+<text x="566" y="568" text-anchor="end" font-family="monospace" font-size="16" fill="#C8A24A" letter-spacing="3">01</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#201c12"/><stop offset="1" stop-color="#0A0A0A"/></linearGradient></defs>
+<rect width="600" height="750" fill="url(#g)"/>
+<g stroke="#C8A24A" stroke-opacity=".12"><line x1="0" y1="60" x2="600" y2="60"/><line x1="0" y1="120" x2="600" y2="120"/><line x1="0" y1="180" x2="600" y2="180"/><line x1="0" y1="240" x2="600" y2="240"/><line x1="0" y1="300" x2="600" y2="300"/><line x1="0" y1="360" x2="600" y2="360"/><line x1="0" y1="420" x2="600" y2="420"/><line x1="0" y1="480" x2="600" y2="480"/><line x1="0" y1="540" x2="600" y2="540"/><line x1="0" y1="600" x2="600" y2="600"/><line x1="0" y1="660" x2="600" y2="660"/><line x1="0" y1="720" x2="600" y2="720"/></g>
+<g transform="rotate(-3 300 380)">
+<circle cx="300" cy="300" r="105" fill="none" stroke="#C8A24A" stroke-width="2"/>
+<path d="M120 640 C120 500 210 440 300 440 C390 440 480 500 480 640" fill="none" stroke="#C8A24A" stroke-width="2"/>
+</g>
+<text x="300" y="330" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="110" fill="#C8A24A" fill-opacity=".9">B</text>
+<text x="300" y="715" text-anchor="middle" font-family="monospace" font-size="15" letter-spacing="4" fill="#F4F1E8" fill-opacity=".45">GANTI DENGAN FOTO ASLI</text>
+</svg>
