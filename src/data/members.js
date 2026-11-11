@@ -5,8 +5,9 @@
 // ============================================================
 
 export const members = [
-  { name: 'Dimas', role: 'Vokal', photo: '/images/members/member-1.svg', quote: 'Suara serak itu fitur, bukan bug.' },
-  { name: 'Fajar', role: 'Gitar', photo: '/images/members/member-2.svg', quote: 'Fals dikit, rasa banyak.' },
-  { name: 'Bima', role: 'Bass', photo: '/images/members/member-3.svg', quote: 'Rendah, tapi nggak rendah diri.' },
-  { name: 'Rizky', role: 'Drum', photo: '/images/members/member-4.svg', quote: 'Yang penting tempo. Kadang.' },
+  { name: 'Wildan', role: 'Vokal Dan Gitar', photo: '/images/members/wildan.webp', quote: 'Suara serak itu fitur, bukan bug.' },
+  { name: 'Raksli', role: 'Gitar Lead', photo: '/images/members/raksli.jpeg', quote: 'Fals dikit, rasa banyak.' },
+  { name: 'Rafah', role: 'Bass', photo: '/images/members/rapah.webp', quote: 'Rendah, tapi nggak rendah diri.' },
+  { name: 'Ojan', role: 'Keyboard', photo: '/images/members/ojan.webp', quote: 'Rendah, tapi nggak rendah diri.' },
+  { name: 'Sadul', role: 'Drum', photo: '/images/members/profile.jpg', quote: 'Moal melang da aing mah engang' },
 ]

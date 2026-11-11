@@ -5,7 +5,7 @@
 
 export const story = [
   {
-    when: '2025',
+    when: '2026',
     title: 'Kebentuk di Bandung',
     text: 'Beberapa teman, satu ruang latihan sempit, dan terlalu banyak kopi. Dari situlah The Kacrut mulai.',
   },

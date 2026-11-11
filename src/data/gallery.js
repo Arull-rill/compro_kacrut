@@ -5,10 +5,10 @@
 // ============================================================
 
 export const gallery = [
-  { src: '/images/gallery/gallery-1.svg', alt: 'Latihan di studio' },
-  { src: '/images/gallery/gallery-2.svg', alt: 'Sesi rekaman' },
-  { src: '/images/gallery/gallery-3.svg', alt: 'Nongkrong setelah latihan' },
-  { src: '/images/gallery/gallery-4.svg', alt: 'Cek sound' },
-  { src: '/images/gallery/gallery-5.svg', alt: 'Behind the scenes' },
-  { src: '/images/gallery/gallery-6.svg', alt: 'Foto bareng personel' },
+  { src: '/images/gallery/fotoBand1.webp', alt: 'Latihan di studio' },
+  { src: '/images/gallery/fotoBand2.webp', alt: 'Sesi rekaman' },
+  { src: '/images/gallery/fotoBand3.webp', alt: 'Nongkrong setelah latihan' },
+  { src: '/images/gallery/fotoBand4.webp', alt: 'Cek sound' },
+  { src: '/images/gallery/fotoBand5.webp', alt: 'Behind the scenes' },
+  { src: '/images/gallery/fotoBand6.webp', alt: 'Foto bareng personel' },
 ]

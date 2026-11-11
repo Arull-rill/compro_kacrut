@@ -7,7 +7,7 @@ export const band = {
   name: 'The Kacrut',
   tagline: 'Dari Bandung, dengan bising yang sopan.', // GANTI kalau mau
   location: 'Bandung, Indonesia',
-  formedYear: 2025, // GANTI
+  formedYear: 2026, // GANTI
   genre: 'Alternative / Indie', // GANTI
 
   // Teks di pita berjalan (marquee). Tambah / hapus sesuka hati.
@@ -36,15 +36,15 @@ export const band = {
     email: 'kontak@thekacrut.com', // GANTI
     whatsapp: '6281234567890', // GANTI — format tanpa + dan tanpa 0 di depan
     whatsappText: 'Halo The Kacrut, aku mau ngobrol soal...',
-    instagramHandle: '@thekacrut', // GANTI
+    instagramHandle: '@officialthekacrut', // GANTI
   },
 
   // Link sosmed. Kosongkan '' kalau belum punya, otomatis disembunyikan.
   social: {
-    instagram: 'https://instagram.com/', // GANTI
-    spotify: 'https://open.spotify.com/', // GANTI
-    youtube: 'https://youtube.com/', // GANTI
-    tiktok: '', // GANTI / kosongkan
+    instagram: 'https://www.instagram.com/officialthekacrut?vrfl=MXRiZmd1YjU0anJoag==', // GANTI
+    spotify: 'https://open.spotify.com/artist/5xQnN5e0W3oavep9aJkOuM?si=cEu_cTgtT6uxH2KknjYKzQ&utm_source=copy-link', // GANTI
+    youtube: 'https://youtube.com/@officialthekacrut?si=MZyRmMmsWaTjkygS', // GANTI
+    tiktok: 'https://www.tiktok.com/@officialthekacrut?_r=1&_t=ZS-9BHqQ40bsox', // GANTI / kosongkan
   },
 
   bookingOpen: true, // true = tampil "Terbuka untuk tawaran manggung"
