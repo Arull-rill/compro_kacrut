@@ -5,9 +5,9 @@
 // ============================================================
 
 export const members = [
-  { name: 'Wildan', role: 'Vokal Dan Gitar', photo: '/images/members/wildan.webp', quote: 'Suara serak itu fitur, bukan bug.' },
-  { name: 'Raksli', role: 'Gitar Lead', photo: '/images/members/raksli.jpeg', quote: 'Fals dikit, rasa banyak.' },
-  { name: 'Rafah', role: 'Bass', photo: '/images/members/rapah.webp', quote: 'Rendah, tapi nggak rendah diri.' },
-  { name: 'Ojan', role: 'Keyboard', photo: '/images/members/ojan.webp', quote: 'Rendah, tapi nggak rendah diri.' },
-  { name: 'Sadul', role: 'Drum', photo: '/images/members/profile.jpg', quote: 'Moal melang da aing mah engang' },
+  { name: 'Wildan', role: 'Vokal Dan Gitar', photo: '/images/members/wildan.webp', quote: 'Lah, Konci motor urang mana??' },
+  { name: 'Raksli', role: 'Gitar Lead', photo: '/images/members/raksli.jpeg', quote: 'Teuing tahh, di jero studio meren??' },
+  { name: 'Rafah', role: 'Bass', photo: '/images/members/rapah.webp', quote: 'Nu kumaha sihh??' },
+  { name: 'Ojan', role: 'Keyboard', photo: '/images/members/ojan.webp', quote: 'Di saku calana meren??' },
+  { name: 'Sadul', role: 'Drum', photo: '/images/members/profile.jpg', quote: 'Balik mah leumpang wee' },
 ]
